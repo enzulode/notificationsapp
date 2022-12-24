@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">NotificationApp</string>
+    <string name="notification_channel_name">Notification channel name</string>
+    <string name="notification_channel_description">Notification description</string>
+    <string name="notification_channel_id">com.enzulode.notificationapp</string>
+    <string name="notification_title">Notification app</string>
 </resources>
