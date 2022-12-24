@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="256dp">
+    
+    <TextView
+        android:id="@+id/notification_expanded"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="This is a custom notification"
+        android:textAlignment="center"
+        android:padding="8dp"
+        style="@style/TextAppearance.Compat.Notification"
+        android:background="@color/white"
+        android:textColor="@color/black"/>
+
+
+
+
+</LinearLayout>
